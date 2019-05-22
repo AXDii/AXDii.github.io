@@ -11,7 +11,7 @@
 联系我：<137192122@qq.com>
 
 ## 相关
-[jkeyll](https://jekyllrb.com/ "jetyll")
+[jkeyll](https://jekyllrb.com/ "jetyll") <br>
 [TeXt](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start "快速搭建博客")
 
 ## License
