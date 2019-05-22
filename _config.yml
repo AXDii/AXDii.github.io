@@ -33,9 +33,9 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 
 ## => Author and Social
 ##############################
-author:     AXD
+author:     
   type      : # "person" (default), "organization"
-  name      : AXD
+  name      : 
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : 一位正在踏入“江湖”的青年
