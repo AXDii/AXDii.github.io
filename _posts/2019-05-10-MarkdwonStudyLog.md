@@ -1,6 +1,9 @@
 ---
 title: Markdown学习日志
+layout: article
 tags: Markdown
+sidebar:
+  nav: layouts
 article_header:
   type: cover
   image:
