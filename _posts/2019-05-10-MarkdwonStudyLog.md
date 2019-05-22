@@ -1,17 +1,12 @@
 ---
 title: Markdown学习日志
 tags: Markdown
-# author: AXD
-article_header:
-  type: cover
-  image:
-    src: /markdown.png
 ---
 # 学习Markdown
 
 ## 目录 
 
-[TOC]
+使用`[TOC]`生成（在这里没有效果）
 
 ## 1.Markdown的基本用法
 
@@ -623,7 +618,7 @@ public class Main{
 
 ### 1.3.4嵌入HTML标签
 
-不管是视频，还是控件
+不管是视频，还是控件（以下视频是Markdown快速入门教程）
 
 <iframe width="400" height="300" src="//player.bilibili.com/player.html?aid=35579542&cid=62389005&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
@@ -799,7 +794,7 @@ cond(yes)->e
 cond(no)->sub->io
 
 ```
-
+（在这里没有效果）
 ```flow
 st=>start: start:>http://www.baidu.com
 io=>inputoutput: 输入输出流
@@ -815,16 +810,14 @@ cond(no)->sub->io
 
 ### 1.3.16时序图
 
-~~~markdown
+```md
 ```sequence
 A->>B: 你好
 Note left of A: 我在左边     // 注释方向，只有左右，没有上下
 Note right of B: 我在右边
 B-->A: 很高兴认识你
 ```
-
-~~~
-
+（在这里没有效果）
 ```sequence
 A->>B: 你好
 Note left of A: 我在左边     
@@ -846,7 +839,7 @@ Note left of A 代表注释在A的左边
 
 **代码2**
 
-```
+```md
     ```sequence
     起床->吃饭: 稀饭油条
     吃饭->上班: 不要迟到了
@@ -859,7 +852,7 @@ Note left of A 代表注释在A的左边
     Note left of 起床: 新的一天
 
 ```
-
+（在这里没有效果）
 ```sequence
     起床->吃饭: 稀饭油条
     吃饭->上班: 不要迟到了
