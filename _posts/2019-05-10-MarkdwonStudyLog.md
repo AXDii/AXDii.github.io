@@ -1,6 +1,10 @@
 ---
 title: Markdown学习日志
 tags: Markdown
+article_header:
+  type: cover
+  image:
+    src: /markdown.png
 ---
 # 学习Markdown
 
