@@ -342,9 +342,9 @@ sit amet, consectetuer adipiscing elit.
 
 使用"\[\]\(\)"来产生，如“\[\](url "alt")”
 
-[哔哩哔哩](www.bilibili.com "这个是alt元素")
+[哔哩哔哩](https://www.bilibili.com "这个是alt元素")
 
-[百度](www.baidu.com "百度一下，你就知道")
+[百度](https://www.baidu.com "百度一下，你就知道")
 
 Markdown 支持两种形式的链接语法： 行内式和参考式两种形式。
 
@@ -515,7 +515,7 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 
 到目前为止， Markdown 还没有办法指定图片的宽高，如果你需要的话，你可以使用普通的 <img> 标签。如下，使用了markdown的
 
-![这是一张壁纸](/markdown.png "壁纸")
+![这是一张壁纸](../markdown.png "壁纸")
 
 ## 1.3其他
 
@@ -659,7 +659,7 @@ public class Main{
 | 强调     | <em>强调</em>                                                | `<em>强调</em>`   |
 | 上标     | Za                                                           | `Z<sup>a</sup>`   |
 | 下标     | Za                                                           | `Z<sub>a</sub>`   |
-| 键盘文本 | ![img](https:////upload-images.jianshu.io/upload_images/6912209-9f4177c5bfb69ab0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/47/format/webp) | `<kbd>Ctrl</kbd>` |
+| 键盘文本 | ![img](https://upload-images.jianshu.io/upload_images/6912209-9f4177c5bfb69ab0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/47/format/webp) | `<kbd>Ctrl</kbd>` |
 | 换行     |                                                              | ``                |
 
 ### 1.3.9格式化文本
